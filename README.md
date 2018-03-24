@@ -1,5 +1,5 @@
 # Easy Sort
-A simple way to sort LINQ IQueryables when, for example, you have multiple columns in a table and you'd like to provide support for asc/desc sorting on many of them.
+A simple way to sort LINQ IQueryables when, for example, you have multiple columns in a table and you'd like to provide support for asc/desc sorting on a number of them.
 
 ## Example usage
 
